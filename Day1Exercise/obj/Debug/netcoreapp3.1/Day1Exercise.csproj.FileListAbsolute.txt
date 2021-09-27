@@ -1,0 +1,13 @@
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.exe
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.deps.json
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.runtimeconfig.json
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.dll
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\bin\Debug\netcoreapp3.1\Day1Exercise.pdb
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.AssemblyInfo.cs
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.dll
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.pdb
+C:\Users\yashi\source\repos\Day1Exercise\Day1Exercise\obj\Debug\netcoreapp3.1\Day1Exercise.genruntimeconfig.cache
